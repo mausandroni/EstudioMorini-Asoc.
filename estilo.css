@@ -6,11 +6,6 @@
 }
 
 
-
-
-
-
-
 li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: brown;
@@ -29,14 +24,17 @@ li{
 
 .cabecera{
     border: red solid 3px;
+
 }
 
 .contenido{
     background-color: aquamarine;
+
 }
 
 .destacar{
     background-color:blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
+
 }
