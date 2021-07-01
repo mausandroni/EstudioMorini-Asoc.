@@ -5,6 +5,42 @@
     padding: 0;
 }
 
+html{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+#mainContent{
+    width: 85vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: lightslategray;
+    color: black;
+    height: 10px;
+}
+
+.navbar ul{
+    text-align: right;
+    list-style-type: none;
+    background-color:lightslategray;
+
+}
+
+.navbar ul li a{
+text-decoration: none;
+color: black;
+}
+
+.logo{
+    text-transform: uppercase;
+}
+
+.logo a{
+    text-decoration: none;
+    color: black;
+}
 
 li{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -37,4 +73,11 @@ li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
 
+}
+
+.destacado{
+    float: left;
+    box-sizing: border-box;
+    width: 50%;
+    height: 500px;
 }
