@@ -9,6 +9,60 @@
     max-width: 330px;
     padding: 15px;
     margin: auto;
+    background-color: lightgrey;
+
+}
+
+.container{
+width: 100%;
+max-width: 330px;
+padding: 5px;
+background-color: lightgray;
+color: black;
+display: inline-block;
+justify-content: flex-end!important;
+box-sizing: border-box;
+margin: auto;
+}
+
+.header{
+    width: 100%;
+    background-color: white;
+}
+
+.Resumen{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: grey;
 }
 
+.destacado{
+    margin-left: 200px;
+    margin-right: 200px;
+    border: solid black;
+    display: flex;
+
+}
+
+#trayectoria{
+    background-color: #dbdbf3;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    background-color: darkgrey;
+}
+
+.map{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.data{
+    text-align: center;
+    display: inline-flex;
+}
