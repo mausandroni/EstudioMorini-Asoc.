@@ -10,59 +10,76 @@
     padding: 15px;
     margin: auto;
     background-color: lightgrey;
-
 }
 
-.container{
+.navbar{
+    padding: 0px 0px!important;
+}
+
+.container-fluid{
 width: 100%;
-max-width: 330px;
 padding: 5px;
 background-color: lightgray;
 color: black;
 display: inline-block;
 justify-content: flex-end!important;
 box-sizing: border-box;
-margin: auto;
 }
 
 .header{
     width: 100%;
     background-color: white;
+    margin-bottom: 10px;
+    padding-top: 16px;
+    padding-left: 16px;
 }
 
-.Resumen{
-    margin-left: 200px;
-    margin-right: 200px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: grey;
+.carousel{
+margin-left: 250px;
+background-color: lightgray!important;
 }
 
-.destacado{
-    margin-left: 200px;
-    margin-right: 200px;
-    border: solid black;
-    display: flex;
+.body{
+    background-color: lightgray!important;
+}
 
+.card{
+    margin-left: 400px;
+
+}
+.col-md-4{
+    margin-top: 100px;
+}
+
+.card-group{
+margin-left: -200px;
+margin-right: 100px;
+background-color: lightgrey;
 }
 
 #trayectoria{
-    background-color: #dbdbf3;
+    background-color: lightgray;
     text-align: center;
-    margin-left: 150px;
+    margin-left: 250px;
     margin-right: 150px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer{
-    background-color: darkgrey;
+    background-color: lightgrey;
+    Display: flex;
+Flex-wrap: wrap;
 }
 
 .map{
     text-align: right;
     margin-right: 100px;
+    padding-top: 32px;
+    padding-right: 0.5px;
+    width: 43%;
 }
 
 .data{
-    text-align: center;
-    display: inline-flex;
+    text-align: left;
+    padding-left: 100px;
+    width: 43%;
 }
