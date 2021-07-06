@@ -47,7 +47,7 @@ margin-left: 225px;
 }
 
 .main{
-background-color: black;
+background-color: black!important;
 background: black;
 }
 
@@ -59,8 +59,18 @@ background: black;
 
 .card{
     margin-left: 400px;
-    background-color: lightgrey;
+    background-color: lightslategray;
+}
 
+.card-text{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+h3{
+    color: white;
 }
 .col-md-4{
     margin-top: 100px;
