@@ -52,7 +52,7 @@ margin-top: 2%;
     margin-left: 20%;
     background-color:#383837;
     border: none;
-
+    font-family: sans-serif;
 }
 
 .card-text{
@@ -69,6 +69,8 @@ margin-top: 2%;
 .card-body2{
     background-color: #1F1E1E;
     border: none;
+    margin-left: 5%;
+     font-family: sans-serif;
 }
 .areas{
     margin-left: 10%;
@@ -118,7 +120,7 @@ width: 100%;
 margin-left: -15%;
 margin-right: 5%;
 background-color: #1F1E1E;
-
+font-family: sans-serif;
 }
 
 
@@ -128,7 +130,7 @@ background-color: #1F1E1E;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 1%;
-
+ font-family: sans-serif;
 }
 
 .footer{
@@ -150,6 +152,8 @@ Flex-wrap: wrap;
     text-align: left;
     padding-left: 1%;
     width: 38%;
+    display: flex;
+    margin-top: 2%;
 }
 
 .data ul{
