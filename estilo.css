@@ -13,7 +13,7 @@
     text-align: center;
     width: 100%;
     max-width: 330px;
-    padding: 15px;
+    padding: 3%;
     margin: auto;
     background-color: #50504e;
 }
@@ -24,7 +24,7 @@
 
 .container-fluid{
 width: 100%;
-padding: 5px;
+padding: 0.5%;
 background-color: #333332!important;
 color: black;
 display: inline-block;
@@ -35,21 +35,21 @@ box-sizing: border-box;
 .header{
     width: 100%;
     background-color: white;
-    margin-bottom: 10px;
-    padding-top: 16px;
-    padding-left: 16px;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
 }
 
 .carousel{
 background-color: #1F1E1E!important;
 width: 80%;
 justify-content: center;
-margin-left: 150px;
-margin-top: 50px;
+margin-left: 10%;
+margin-top: 2%;
 }
 
 .card{
-    margin-left: 250px;
+    margin-left: 20%;
     background-color:#383837;
     border: none;
 
@@ -71,8 +71,8 @@ margin-top: 50px;
     border: none;
 }
 .areas{
-    margin-left: 100px;
-    justify-content: space-between 10px;
+    margin-left: 10%;
+    justify-content: space-between 10%;
 
 }
 
@@ -90,13 +90,13 @@ h2{
     color: white;
 }
 .col-md-4{
-    margin-top: 50px;
+    margin-top: 4%;
     background-color: #1F1E1E;
 
 }
 
 .col-md-8{
-    margin-top: 40px;
+    margin-top: 4%;
     background-color: #1F1E1E;
 }
 
@@ -115,8 +115,8 @@ width: 140%;
 }
 
 .card-group{
-margin-left: -200px;
-margin-right: 100px;
+margin-left: -15%;
+margin-right: 5%;
 background-color: #1F1E1E;
 
 }
@@ -125,9 +125,9 @@ background-color: #1F1E1E;
 #trayectoria{
     background-color: #1F1E1E;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 150px;
-    margin-bottom: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
 
 }
 
@@ -139,16 +139,16 @@ Flex-wrap: wrap;
 
 .map{
     text-align: right;
-    margin-right: 100px;
-    padding-top: 15px;
-    padding-right: 0px;
+    margin-right: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
     width: 38%;
     justify-content: right;
 }
 
 .data{
     text-align: left;
-    padding-left: 100px;
+    padding-left: 1%;
     width: 38%;
 }
 
@@ -159,18 +159,17 @@ Flex-wrap: wrap;
 .data ul li{
     display: inline-block;
     list-style: none;
-    padding: 5px;
-    margin-top: 50px;
-
+    padding: 6px;
+    margin-top: 50%;
 }
 
 .fotofooter{
-    margin-left: 20px;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .derechos{
     text-align: center;
-    margin-left: 600px;
+    margin-left: 40%;
 }
