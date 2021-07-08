@@ -103,7 +103,7 @@ h2{
 
 .row{
 background-color: #1F1E1E;
-width: 140%;
+width: 100%;
 
 }
 .row-g0{
@@ -159,7 +159,7 @@ Flex-wrap: wrap;
 .data ul li{
     display: inline-block;
     list-style: none;
-    padding: 6px;
+    padding: 1px;
     margin-top: 50%;
 }
 
