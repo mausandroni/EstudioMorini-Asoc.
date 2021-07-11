@@ -1,4 +1,4 @@
-function click2(event){
+
     var formulario;
     var usuario;
     var email;
@@ -7,6 +7,7 @@ function click2(event){
     var consulta;
     var regName = / ^ [a-zA-Z] + [a-zA-Z] + $ /;
   
+    function click2(event){
     usuario = document.getElementById("usuario").value;
     console.log (usuario);
     email = document.getElementById("email").value;
@@ -15,8 +16,8 @@ function click2(event){
     materia = document.getElementById("materia").value;
     consulta = document.getElementById("consulta").value;
   
-  
-  
+    
+
     event.preventDefault(); 
     if(!isNaN(usuario)){
         window.alert("Ingrese un nombre válido");
@@ -26,7 +27,7 @@ function click2(event){
       alert('[ERROR] El campo debe contener un email válido');
       return false;
     } 
-    else if (isNaN(telefono)){
+     if (isNaN(telefono)){
       alert('[ERROR] El campo debe contener un teléfono válido');
       return false;
     } 
